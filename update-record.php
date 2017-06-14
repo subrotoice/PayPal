@@ -1,4 +1,5 @@
 <?php
+// https://developer.paypal.com/developer/accounts
 //Example array.
 $array = $_POST;
 //Encode the array into a JSON string.
